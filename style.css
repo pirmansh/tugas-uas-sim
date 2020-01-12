@@ -1,0 +1,13 @@
+body{
+    background-color: #F7FAFC;
+   font-family: 'Open Sans', sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+    h3{
+        font-size: medium;
+    }
+    p{
+        font-size: small;
+    }
+} 
